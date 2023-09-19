@@ -34,8 +34,8 @@
 - <b>Full Stack E-commerce Website (WooCommerce)</b>
   - [glittermamas.com](<!--link to project-->) <b>
 - <b>Python</b>
-  - [Transparent Image Cropper](<!--link to project-->)
-  - [Image to Webp Conversion & Compression](<!--link to project-->)
+  - [Transparent Image Cropper](https://github.com/tylerby10/ImgCropper.py)
+  - [Image to Webp Conversion & Compression](https://github.com/tylerby10/ImgScalerCompressor.py)
 - <b>Homelab</b>
   - [Proj1](<!--link to project-->)
   - [Proj2](<!--link to project-->)
