@@ -5,43 +5,46 @@
 - Fun fact: I'm getting started building out a homelab
 
 <h2>Academic Projects:</h2>
+    
+- <b>Microsoft SQL Server</b>
+  - [Database Design Project](https://github.com/tylerby10/T-SQL_Database_Design)
 
+<!--
 - <b>Amazon Web Services</b>
-  - [Proj1](<!--link to project-->)
+  - [Proj1]()
 - <b>UNIX/Shell Scripting</b></br>
-  - [Proj1](<!--link to project-->)
-  - [Proj2](<!--link to project-->)
+  - [Proj1]()
+  - [Proj2]()
   ...
 - <b>Web Development</b>
-  - [Proj1](<!--link to project-->)
+  - [Proj1]()
 - <b>Network Engineering</b></br>
-  - [Proj1](<!--link to project-->)
+  - [Proj1]()
 - <b>Project Development</b>
-  - [Proj1](<!--link to project-->)
+  - [Proj1]()
 - <b>Active Directory</b></br>
-  - [Proj1](<!--link to project-->)
+  - [Proj1]()
 - <b>PowerShell</b></br>
-  - [Proj1](<!--link to project-->)
-  - [Proj2](<!--link to project-->)
+  - [Proj1]()
+  - [Proj2]()
   ...
-- <b>Microsoft SQL Server</b>
-  - [Proj1](<!--link to project-->)
-  - [Proj2](<!--link to project-->)
-
+-->
 
 <h2>Personal Projects</h2>
 
-- <b>Full Stack E-commerce Website (WooCommerce)</b>
-  - [glittermamas.com](<!--link to project-->) <b>
 - <b>Python</b>
   - [Transparent Image Cropper](https://github.com/tylerby10/ImgCropper.py)
   - [Image Resize and Webp Conversion/Compression](https://github.com/tylerby10/ImgScalerCompressor.py)
+<!--
+- <b>Full Stack E-commerce Website (WooCommerce)</b>
+  - <b>[glittermamas.com]()</b>
 - <b>Homelab</b>
-  - [Proj1](<!--link to project-->)
-  - [Proj2](<!--link to project-->)
+  - [Proj1]()
+  - [Proj2]()
   ...
 - <b>Linux Mint</b>
-  - [Type 2 GuestOS](<!--link to project-->)
+  - [Type 2 GuestOS]()
+-->
 
 <h2>Connect with me:</h2>
 
