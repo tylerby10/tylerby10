@@ -1,7 +1,7 @@
 <h1>Hi, I'm Tyler!</h1>
 
 - I’m currently working on my Bachelor's in Information Technology at Arizona State University
-- I’m currently learning AWS & Advanced TCP/IP protocols
+- I’m currently learning about AWS, Information Security Systems, & Advanced TCP/IP protocols
 - Fun fact: I'm getting started building out a homelab
 
 <h2>Academic Projects:</h2>
